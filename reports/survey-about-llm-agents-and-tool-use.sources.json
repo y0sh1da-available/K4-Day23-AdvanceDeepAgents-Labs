@@ -1,0 +1,26 @@
+[
+  {
+    "n": 1,
+    "id": "2401.12345",
+    "url": "https://arxiv.org/abs/2401.12345",
+    "title": "Foundational Theories of LLM Agents",
+    "date": "2024-01-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2026.findings-acl.1330",
+    "url": "https://aclanthology.org/2026.findings-acl.1330.pdf",
+    "title": "A Survey on Evaluation of LLM-based Agents",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2506.03610",
+    "url": "https://huggingface.co/papers/2506.03610",
+    "title": "Orak: A Foundational Benchmark for Training and Evaluating LLM Agents on Diverse Video Games",
+    "date": "2025-06-04",
+    "source": "hf-search"
+  }
+]

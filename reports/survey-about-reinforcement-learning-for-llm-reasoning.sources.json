@@ -1,0 +1,90 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12124",
+    "url": "https://arxiv.org/abs/2610.12124",
+    "title": "Use and Disuse: Intent-Structured Experience Consolidation for Memory and Learning in LLM Agents",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2610.12061",
+    "url": "https://arxiv.org/abs/2610.12061",
+    "title": "When Should Agents Think? Adaptive Reasoning via Cross-Turn Estimation",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2610.11959",
+    "url": "https://arxiv.org/abs/2610.11959",
+    "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2610.11854",
+    "url": "https://arxiv.org/abs/2610.11854",
+    "title": "GRPODropout: Less is More for Online Reinforcement Learning Rollouts",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2610.11696",
+    "url": "https://arxiv.org/abs/2610.11696",
+    "title": "A 3D Characterization Framework for Intelligent Sequential Decision Making",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2505.11711",
+    "url": "https://huggingface.co/papers/2505.11711",
+    "title": "Reinforcement Learning Finetunes Small Subnetworks in Large Language Models",
+    "date": "2025-05-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2312.05657",
+    "url": "https://huggingface.co/papers/2312.05657",
+    "title": "Leveraging Reinforcement Learning and Large Language Models for Code Optimization",
+    "date": "2023-12-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2302.06692",
+    "url": "https://huggingface.co/papers/2302.06692",
+    "title": "Guiding Pretraining in Reinforcement Learning with Large Language Models",
+    "date": "2023-02-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2602.12566",
+    "url": "https://huggingface.co/papers/2602.12566",
+    "title": "To Mix or To Merge: Toward Multi-Domain Reinforcement Learning for Large Language Models",
+    "date": "2026-02-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "2604.09459",
+    "url": "https://huggingface.co/papers/2604.09459",
+    "title": "From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models",
+    "date": "2026-04-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "2509.16679",
+    "url": "https://arxiv.org/abs/2509.16679",
+    "title": "Reinforcement Learning Meets Large Language Models: A Survey of Advancements and Applications Across the LLM Lifecycle",
+    "date": "2025-09-20",
+    "source": "web"
+  }
+]

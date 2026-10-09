@@ -1,0 +1,55 @@
+[
+  {
+    "n": 1,
+    "id": "2610.07443",
+    "url": "https://arxiv.org/abs/2610.07443",
+    "title": "A Shape-Adaptive Architecture with Disaggregated Quantization for Efficient LLM Serving",
+    "date": "2026-10-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2503.04813",
+    "url": "https://huggingface.co/papers/2503.04813",
+    "title": "Self-Evolved Preference Optimization for Enhancing Mathematical Reasoning in Small Language Models",
+    "date": "2025-03-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "url": "https://aclanthology.org/2025.findings-emnlp.1165/",
+    "title": "SLM-Bench: A Comprehensive Benchmark of Small Language Models",
+    "date": "2025",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2610.05099",
+    "url": "https://arxiv.org/abs/2610.05099",
+    "title": "Small Agents with Semantic Search: Efficient Multilingual Code Localization",
+    "date": "2026-10-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2511.22138",
+    "url": "https://huggingface.co/papers/2511.22138",
+    "title": "TinyLLM: Evaluation and Optimization of Small Language Models for Agentic Tasks on Edge Devices",
+    "date": "2025-11-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "url": "https://research.nvidia.com/labs/lpr/slm-agents/",
+    "title": "Small Language Models are the Future of Agentic AI",
+    "date": "2025",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "url": "https://www.ijcai.org/proceedings/2026/0627.pdf",
+    "title": "Mapping the Efficiency Landscape of Small Language Models",
+    "date": "2026",
+    "source": "web"
+  }
+]

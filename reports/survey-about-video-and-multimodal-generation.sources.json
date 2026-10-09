@@ -1,0 +1,70 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12470",
+    "url": "https://arxiv.org/abs/2610.12470",
+    "title": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2603.10408",
+    "url": "https://huggingface.co/papers/2603.10408",
+    "title": "Motion Forcing: A Decoupled Framework for Robust Video Generation in Motion Dynamics",
+    "date": "2026-03-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "url": "https://link.springer.com/article/10.1007/s10462-026-11525-6",
+    "title": "Generative AI for multimodal content: a survey with empirical and experimental evaluations",
+    "date": "2026-03-19",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2512.03041",
+    "url": "https://huggingface.co/papers/2512.03041",
+    "title": "MultiShotMaster: A Controllable Multi-Shot Video Generation Framework",
+    "date": "2025-12-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2610.12461",
+    "url": "https://arxiv.org/abs/2610.12461",
+    "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2610.12421",
+    "url": "https://arxiv.org/abs/2610.12421",
+    "title": "Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "url": "https://link.springer.com/article/10.1186/s40537-025-01314-3",
+    "title": "Text-to-video generators: a comprehensive survey",
+    "date": "2025-11-14",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "url": "https://link.springer.com/article/10.1007/s10462-026-11699-z",
+    "title": "Towards human-centered and efficient video synthesis: a survey of multimodal diffusion models",
+    "date": "2026-09-13",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "url": "https://arxiv.org/html/2505.03829v1",
+    "title": "VideoLLM Benchmarks and Evaluation: A Survey",
+    "date": "N/A",
+    "source": "web"
+  }
+]

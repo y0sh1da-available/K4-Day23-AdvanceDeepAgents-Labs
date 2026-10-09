@@ -1,0 +1,59 @@
+[
+  {
+    "n": 1,
+    "id": "1803.10122",
+    "url": "https://arxiv.org/abs/1803.10122",
+    "title": "World Models",
+    "date": "2018-03-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2306.04347",
+    "url": "https://huggingface.co/papers/2306.04347",
+    "title": "World Models for Math Story Problems",
+    "date": "2023-06-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "url": "https://dl.acm.org/doi/10.1145/3746449",
+    "title": "Understanding World or Predicting Future? A Comprehensive Survey of World Models",
+    "date": "2025-09-09",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "url": "https://github.com/ParamThakkar123/torchwm/",
+    "title": "TorchWM",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "url": "https://github.com/DilpreetBansi/worldkit",
+    "title": "WorldKit",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "url": "https://github.com/shengshu-ai/minWM/",
+    "title": "minWM",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2608.06020",
+    "url": "https://huggingface.co/papers/2608.06020",
+    "title": "From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models",
+    "date": "2026-08-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2412.10047",
+    "url": "https://huggingface.co/papers/2412.10047",
+    "title": "Large Action Models: From Inception to Implementation",
+    "date": "2024-12-13",
+    "source": "hf-search"
+  }
+]
